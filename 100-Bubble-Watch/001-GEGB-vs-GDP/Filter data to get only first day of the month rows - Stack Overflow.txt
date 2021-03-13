@@ -1,0 +1,1 @@
+https://stackoverflow.com/questions/25797038/filter-data-to-get-only-first-day-of-the-month-rows
