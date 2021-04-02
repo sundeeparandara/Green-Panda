@@ -1,2 +1,2 @@
-# Green Pine
- A radar to monitor financial space.
+# Green Panda
+ A cute panda that chews bamboo and watches the financial markets.
